@@ -19,14 +19,15 @@ Admin can add quizes questions within the quiz and also can update them.
 3. ANY WEB BROWSER.
 
 ----------STEPS TO RUN THIS WEBAPP----------
-1. Go to MySql Workbench and write the following query : "CREATE DATABASE quizproject;"
-2. DOWNLOAD THE RAR FILE FROM THE GITHUB AND EXTRACT IN ANY LOCAL STORAGE.
-3. OPEN SPRING STS , GO TO FILE > IMPORT > EXISTING MAVEN PROJECTS . SELECT THE FOLDER IN WHICH YOU HAVE EXTRACTED THE FILES.
-4. ONCE THE PROJECT IS LOADED , IN THE PACKAGE EXPLORER (LEFT HAND SIDE OF THE STS SOFTWARE) CLICK ON "ZONIX-QUIZAPP" , 
+1. Set the username of mysql-workbench as:"root" and password as :"1234"
+2. Go to MySql Workbench and write the following query : "CREATE DATABASE quizproject;"
+3. DOWNLOAD THE RAR FILE FROM THE GITHUB AND EXTRACT IN ANY LOCAL STORAGE.
+4. OPEN SPRING STS , GO TO FILE > IMPORT > EXISTING MAVEN PROJECTS . SELECT THE FOLDER IN WHICH YOU HAVE EXTRACTED THE FILES.
+5. ONCE THE PROJECT IS LOADED , IN THE PACKAGE EXPLORER (LEFT HAND SIDE OF THE STS SOFTWARE) CLICK ON "ZONIX-QUIZAPP" , 
           GO TO src/main/java > com.anik.springboot , Right Click on ZonixQuizappApplication.java and select Run As > Java Application.
 
-5. Once the project is successfully started , Go to your browser and type the url "http://localhost:8080/home" and your application will start working.
-6. To access the admin portal the userid is ADMIN-007 and password is ANIK-CHANA.s
+6. Once the project is successfully started , Go to your browser and type the url "http://localhost:8080/home" and your application will start working.
+7. To access the admin portal the userid is ADMIN-007 and password is ANIK-CHANA.s
 
 ---------------IF ERRORS EXISTS--------------
 
